@@ -1,0 +1,14 @@
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/bin/Debug/net8.0/BookingSimpleConsoleApp
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/bin/Debug/net8.0/BookingSimpleConsoleApp.deps.json
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/bin/Debug/net8.0/BookingSimpleConsoleApp.runtimeconfig.json
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/bin/Debug/net8.0/BookingSimpleConsoleApp.dll
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/bin/Debug/net8.0/BookingSimpleConsoleApp.pdb
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.AssemblyInfoInputs.cache
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.AssemblyInfo.cs
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.csproj.CoreCompileInputs.cache
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.dll
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/refint/BookingSimpleConsoleApp.dll
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.pdb
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/BookingSimpleConsoleApp.genruntimeconfig.cache
+/Users/andersmonrad/Desktop/Kode til Github/BookingSimpleConsoleApp/obj/Debug/net8.0/ref/BookingSimpleConsoleApp.dll
